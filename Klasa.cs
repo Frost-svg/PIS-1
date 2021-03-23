@@ -6,5 +6,7 @@ namespace PIS_1
 {
     class Klasa
     {
+        int i;
+
     }
 }
